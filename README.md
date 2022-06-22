@@ -8,7 +8,7 @@
 
 - 💬 Pode chamar para tirar duvidas
 
-- 🌎 O mundo está cheio de coisas óbvias que ninguém jamais observa. -Sherlock Holmes 
+- 🌎 "O mundo está cheio de coisas óbvias que ninguém jamais observa." -Sherlock Holmes 
   
 <div style="display: inline_block"><br>
   <h2>Tecnologias que Utilizo 💻</h2>
