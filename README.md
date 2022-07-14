@@ -22,7 +22,7 @@
   #
   
   <h3>Back-end</h3> 
-  <img align="center" alt="Nanias-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />    
+  <img align="center" alt="Nanias-MySql" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />    
   
   
   #
