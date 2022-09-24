@@ -2,9 +2,7 @@
 
 **Sobre mim!**
 
-- 🔭 Desenvolvedor Front-end
-
-- 🌱 Atualmente fazendo o curso no START(LATAM)
+- 🔭 Desenvolvedor Web Full-stack
 
 - 💬 Pode chamar para tirar duvidas
 
