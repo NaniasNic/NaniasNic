@@ -1,6 +1,6 @@
 ## Hello world :wave:, call me Ananias Nicolau.
 
-# I am Web Developer:
+# I am a Web Developer:
 
 **:pushpin:Front-end:** React | TypeScript 
 
