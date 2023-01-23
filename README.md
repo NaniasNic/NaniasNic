@@ -7,6 +7,8 @@
 **:pushpin:Back-end:** Node
 
 **:mag_right:Studying:** React Native
+
+**:office: 2023 Plans:** My first job in the field.
   
   #
   
