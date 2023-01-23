@@ -9,7 +9,7 @@
 - 🌎 "O mundo está cheio de coisas óbvias que ninguém jamais observa." -Sherlock Holmes 
   
 <div style="display: inline_block"><br>
-  ## 🛠 Habilidades
+### 🛠 Habilidades
 React | React Native | TypeScript | Node
   
   #
