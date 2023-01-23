@@ -8,27 +8,11 @@
 
 - 🌎 "O mundo está cheio de coisas óbvias que ninguém jamais observa." -Sherlock Holmes 
   
-<div style="display: inline_block"><br>
-### 🛠 Habilidades
-React | React Native | TypeScript | Node
-  
-  #
-  
-  <h3>Back-end</h3> 
-  <img align="center" alt="Nanias-MySql" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-  <img align="center" alt="Nanias-NodeJS" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  
-  #
-  
-  <h3>Ferramentas que Utilizo</h3>
-  <img align="center" alt="Nanias-VSCode" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Nanias-Git" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Nanias-Figman" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Nanias-PhotoShop" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Nanias-WP" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img align="center" alt="Nanias-Trello" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+## Stack utilizada
 
-</div>
+**Front-end:** React, Redux, TailwindCSS
+
+**Back-end:** Node, Express
   
   #
   
