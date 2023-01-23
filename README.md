@@ -4,9 +4,6 @@
 
 - 🔭 Desenvolvedor Web Full-stack
 
-- 💬 Pode chamar para tirar duvidas
-
-- 🌎 "O mundo está cheio de coisas óbvias que ninguém jamais observa." -Sherlock Holmes 
   
 ## Stack utilizada
 
