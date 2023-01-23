@@ -2,13 +2,11 @@
 
 # I am Web Developer:
 
-## Stack utilizada
+**:pushpin:Front-end:** React | TypeScript 
 
-**Front-end:** React | TypeScript 
+**:pushpin:Back-end:** Node
 
-**Back-end:** Node
-
-**Studying:** React Native
+**:mag_right:Studying:** React Native
   
   #
   
