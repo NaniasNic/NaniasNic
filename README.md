@@ -10,9 +10,9 @@
   
 ## Stack utilizada
 
-**Front-end:** React, Redux, TailwindCSS
+**Front-end:** React | React Native | TypeScript 
 
-**Back-end:** Node, Express
+**Back-end:** Node
   
   #
   
