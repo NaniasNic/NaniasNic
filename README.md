@@ -7,9 +7,11 @@
   
 ## Stack utilizada
 
-**Front-end:** React | React Native | TypeScript 
+**Front-end:** React | TypeScript 
 
 **Back-end:** Node
+
+**Studying** React Native
   
   #
   
