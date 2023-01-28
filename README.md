@@ -2,7 +2,7 @@
 
 # I am a Web Developer:
 
-**:pushpin:Front-end:** React | TypeScript 
+**:pushpin:Front-end:** JavaScript | React | TypeScript 
 
 **:pushpin:Back-end:** Node
 
