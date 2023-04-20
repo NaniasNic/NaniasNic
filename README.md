@@ -6,7 +6,7 @@
 
 **:pushpin:Back-end:** Node
 
-**:mag_right:Studying:** Next
+**:mag_right:Studying:** Next | Angular
 
 **:office: 2023 Plans:** My first job in the field.
   
