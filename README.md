@@ -2,11 +2,11 @@
 
 # I am a Web Developer:
 
-**:pushpin:Front-end:** JavaScript | TypeScript | React | React Native
+**:pushpin:Front-end:** JavaScript | TypeScript | React | React Native | NextJS
 
 **:pushpin:Back-end:** Node
 
-**:mag_right:Studying:** Next | Angular
+**:mag_right:Studying:** Angular
 
 **:office: 2023 Plans:** My first job in the field.
   
