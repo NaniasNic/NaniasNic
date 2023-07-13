@@ -6,7 +6,7 @@
 
 **:pushpin:Back-end:** Node
 
-**:mag_right:Studying:** Angular
+**:mag_right:Studying:** Angular | NestJS
 
 **:office: 2023 Plans:** My first job in the field.
   
