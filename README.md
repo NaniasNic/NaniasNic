@@ -1,6 +1,6 @@
 ## Hello world :wave:, call me Ananias Nicolau.
 
-# I am a Full-Stack Developer:
+# I am a Software Developer:
 
 **:pushpin:Front-end:** JavaScript | TypeScript | React | React Native | NextJS
 
