@@ -4,9 +4,9 @@
 
 **:pushpin:Front-end:** JavaScript | TypeScript | React | React Native | NextJS
 
-**:pushpin:Back-end:** Node 
+**:pushpin:Back-end:** Node | Laravel
 
-**:mag_right:Studying:** Java | PHP | Laravel
+**:mag_right:Studying:** Java | PHP 
 
 **:office: 2023 Plans:** My first job in the field.
   
