@@ -2,7 +2,7 @@
 
 # I am a Software Developer:
 
-**:pushpin:Front-end:** JavaScript | TypeScript | React | React Native | NextJS
+**:pushpin:Front-end:** JavaScript | TypeScript | React | React Native | NextJS | Laravel
 
 **:pushpin:Back-end:** Node | PHP | Laravel
 
