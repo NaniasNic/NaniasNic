@@ -6,7 +6,7 @@
 
 **:pushpin:Back-end:** Node | PHP | Laravel
 
-**:mag_right:Studying:** Java  
+**:mag_right:Studying:** Java | Flutter
 
 **:office: 2023 Plans:** My first job in the field.
   
