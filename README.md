@@ -8,7 +8,7 @@
 
 **:mag_right:Studying:** Java | Flutter
 
-**:office: 2023 Plans:** My first job in the field.
+**:office: 2023 Plans:** Acquiring more technical knowledge and enhancing my already acquired skills.
   
   #
   
